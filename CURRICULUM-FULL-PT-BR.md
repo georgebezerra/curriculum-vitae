@@ -7,6 +7,7 @@
 # George Bezerra
 *Frontend Developer (React).*
 *Rio de Janeiro, Brasil.*
+
 <sub>george.contato@gmail.com</sub>
 
 ---
