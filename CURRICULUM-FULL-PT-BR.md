@@ -18,7 +18,7 @@ SysAdmin (Unix e Linux), técnico de suporte, desenvolvimento de Web (Front & Ba
 
 # Tecnologias
 
-O meu foco atual de trabalho é com a seguintes tecnologias:
+O meu foco atual de trabalho é com as respectivas tecnologias:
 **React** e **Next.js**, **GraphQL**, **TypeScript** e **Node.js**.
 
 ![space](https://user-images.githubusercontent.com/3277185/99425971-50e77c80-28e2-11eb-8a59-890fcc2749e6.png)
@@ -35,6 +35,14 @@ Storybook, Linux, Docker, Docker-compose, AmazonAWS (EC2, EBS, CodeCommit, Ampli
 
 - **Português:** Nativo
 - **Inglês:** Intermediário *(good read/write, bad speak/listen)*
+
+![space](https://user-images.githubusercontent.com/3277185/99425971-50e77c80-28e2-11eb-8a59-890fcc2749e6.png)
+
+# Formação Acadêmica
+
+- **Design:** Bacharelado - Unicarioca - (2010-2014).
+- **Análise e Projeto de Sistemas:** Pós-graduação Lato-sensu - PUC-RJ - (2015-2017).
+- **Análise e Desenvolvimento de Sistemas:** Graduação Tecnológica - Estácio de Sá - (2017-2020).
 
 ![space](https://user-images.githubusercontent.com/3277185/99425971-50e77c80-28e2-11eb-8a59-890fcc2749e6.png)
 
