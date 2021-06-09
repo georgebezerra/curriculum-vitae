@@ -82,7 +82,7 @@ Participação do projeto Afferolab [https://www.afferolab.com.br/]:
 ## Recode
 ##### Instrutor; Rio de Janeiro, RJ (Remoto); Agosto-2019 - Novembro-2019
 > A [Recode](https://recode.org.br/) é uma ONG que capacita jovens para o mercado de trabalho através do seu
-> projeto chamada Recode Pro [https://www.recodepro.org.br/]
+> projeto chamada [Recode Pro](https://www.recodepro.org.br/)
 * Instrutor do curso de FullStack Developer (capacitação profissional) preparando jovens para entrarem no 
 mercado de trabalho. 
   Ministrei aulas de; HTML, CSS, JavaScript, Metodologia Ágil, UI-Design, Node, React, React-Native.
