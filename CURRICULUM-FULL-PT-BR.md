@@ -5,16 +5,42 @@
 </sup>
 
 # George Bezerra
-*Front-end Developer (React).*  
-*Rio de Janeiro, Brasil.*  
+*Frontend Developer (React).*
+*Rio de Janeiro, Brasil.*
 <sub>george.contato@gmail.com</sub>
 
 ---
 
-Profissional com 26 anos na área de TI atuando como:
+Profissional com 26 anos na área de TI trabalhando como:
 SysAdmin (Unix e Linux), técnico de suporte, desenvolvimento de Web (Front & Back-end), instrutor e professor de informática.
 
 ![space](https://user-images.githubusercontent.com/3277185/99425971-50e77c80-28e2-11eb-8a59-890fcc2749e6.png)
+
+# Experiências
+*[MixReality](#mixreality)
+*[Seven](#seven)
+*[Ubistart](#ubistart)
+*[BossaBox](#bossabox)
+*[Recode](#recode)
+
+![space](https://user-images.githubusercontent.com/3277185/99425971-50e77c80-28e2-11eb-8a59-890fcc2749e6.png)
+
+## MixReality
+##### Frontend Developer (React); São Paulo, SP (Remoto); Outubro-2021 - _atual_
+
+![space](https://user-images.githubusercontent.com/3277185/99425971-50e77c80-28e2-11eb-8a59-890fcc2749e6.png)
+
+## Seven
+##### Tech Lead; Rio de Janeiro, RJ (Remoto); Janeiro-2021 - Junho-2021
+
+## Ubitstart
+##### Frontend Developer (React); Porto Alegre, RS (Remoto); 2020 - 2021
+
+## BossaBox
+##### Tech Lead; Rio de Janeiro, RJ (Remoto); Janeiro-2020 - Junho-2021
+
+## Recode
+##### Instrutor; Rio de Janeiro, RJ (Remoto); Janeiro-2020 - Junho-2021
 
 # Tecnologias
 
@@ -27,7 +53,7 @@ O meu foco atual de trabalho é com as respectivas tecnologias:
 
 HTML5, CSS3, JavaScript, SQL, MongoDB, UML, Styled-components, Jest,
 React Testing Library, Unit-Test, Integration-Test, ExpressJS, KoaJS, Strapi-CMS, 
-Storybook, Linux, Docker, Docker-compose, AmazonAWS (EC2, EBS, CodeCommit, Amplify).
+Storybook, Linux, Docker, Docker-compose, Git, GitHub, GitFlow, Git-Lab, AmazonAWS (EC2, EBS, CodeCommit, Amplify).
 
 ![space](https://user-images.githubusercontent.com/3277185/99425971-50e77c80-28e2-11eb-8a59-890fcc2749e6.png)
 
