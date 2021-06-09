@@ -37,7 +37,7 @@ Projeto desenvolvido:
 
 ## Seven
 ##### Tech Lead; Rio de Janeiro, RJ (Remoto); Agosto-2020 - Novembro-2020
-> A Seven é uma agência digital que presta serviço digital.
+> A Seven é uma agência digital que presta serviço de desenvolvimento.
 > * Participação do projeto de e-commerce:
 - Criação e implementação da arquitetura cloud (AWS).
 - Definição da stack backend; Node, TypeScript, Yup, MySQL.
@@ -59,18 +59,19 @@ Projeto desenvolvido:
 > A [BossaBox](https://bossabox.com/para-empresas) é um startup que monta squads remotas sob demanda de acordo com o cliente, produto e tecnologias envolvidas.
 
 Projetos desenvolvidos:
-* Participação no discovery da Multicoisas [https://www.multicoisas.com.br]:
+
+Participação no discovery da Multicoisas [https://www.multicoisas.com.br]:
 - Criação do design da arquitetura cloud (AWS, Azure, CGP).
 - Definição da stack backend; Node, TypeScript, Yup, SQL-Server.
 - Definição da stack frontend; React, Hooks, TypeScript, Material-UI, Redux, Formik, Yup, Axios.
 
-* Participação do projeto Movvi [https://www.movvi.com.br/]:
+Participação do projeto Movvi [https://www.movvi.com.br/]:
 - Desenvolvimento frontend.
 - Criação do design da arquitetura cloud (AWS).
 - Definição da stack backend; Node, TypeScript, Yup, MySQL.
 - Definição da stack frontend; React, Hooks, TypeScript, Styled-components, Context-API, Formik, Yup, Axios.
 
-* Participação do projeto Afferolab [https://www.afferolab.com.br/]:
+Participação do projeto Afferolab [https://www.afferolab.com.br/]:
 - Criação do design da arquitetura cloud (AWS).
 - Definição da stack backend; Node, TypeScript, Yup, MySQL.
 - Definição da stack frontend; React, Hooks, TypeScript, Styled-components, Context-API, Formik, Yup, Axios.
