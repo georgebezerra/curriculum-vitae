@@ -48,6 +48,8 @@ SysAdmin (Unix e Linux), técnico de suporte, desenvolvimento de Web (Front & Ba
 ## Recode
 ##### Instrutor; Rio de Janeiro, RJ (Remoto); Janeiro-2020 - Junho-2021
 
+![space](https://user-images.githubusercontent.com/3277185/99425971-50e77c80-28e2-11eb-8a59-890fcc2749e6.png)
+
 # Tecnologias
 
 O meu foco atual de trabalho é com as respectivas tecnologias:
