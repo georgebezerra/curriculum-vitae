@@ -17,11 +17,11 @@ SysAdmin (Unix e Linux), técnico de suporte, desenvolvimento de Web (Front & Ba
 ![space](https://user-images.githubusercontent.com/3277185/99425971-50e77c80-28e2-11eb-8a59-890fcc2749e6.png)
 
 # Experiências
-*[MixReality](#mixreality)
-*[Seven](#seven)
-*[Ubistart](#ubistart)
-*[BossaBox](#bossabox)
-*[Recode](#recode)
+* [MixReality](#mixreality)
+* [Seven](#seven)
+* [Ubistart](#ubistart)
+* [BossaBox](#bossabox)
+* [Recode](#recode)
 
 ![space](https://user-images.githubusercontent.com/3277185/99425971-50e77c80-28e2-11eb-8a59-890fcc2749e6.png)
 
@@ -33,11 +33,17 @@ SysAdmin (Unix e Linux), técnico de suporte, desenvolvimento de Web (Front & Ba
 ## Seven
 ##### Tech Lead; Rio de Janeiro, RJ (Remoto); Janeiro-2021 - Junho-2021
 
+![space](https://user-images.githubusercontent.com/3277185/99425971-50e77c80-28e2-11eb-8a59-890fcc2749e6.png)
+
 ## Ubitstart
 ##### Frontend Developer (React); Porto Alegre, RS (Remoto); 2020 - 2021
 
+![space](https://user-images.githubusercontent.com/3277185/99425971-50e77c80-28e2-11eb-8a59-890fcc2749e6.png)
+
 ## BossaBox
 ##### Tech Lead; Rio de Janeiro, RJ (Remoto); Janeiro-2020 - Junho-2021
+
+![space](https://user-images.githubusercontent.com/3277185/99425971-50e77c80-28e2-11eb-8a59-890fcc2749e6.png)
 
 ## Recode
 ##### Instrutor; Rio de Janeiro, RJ (Remoto); Janeiro-2020 - Junho-2021
@@ -51,7 +57,7 @@ O meu foco atual de trabalho é com as respectivas tecnologias:
 
 # Skills
 
-HTML5, CSS3, JavaScript, SQL, MongoDB, UML, Styled-components, Jest,
+HTML5, CSS3, JavaScript, SQL, MongoDB, UML, UI-Design, Styled-components, Jest,
 React Testing Library, Unit-Test, Integration-Test, ExpressJS, KoaJS, Strapi-CMS, 
 Storybook, Linux, Docker, Docker-compose, Git, GitHub, GitFlow, Git-Lab, AmazonAWS (EC2, EBS, CodeCommit, Amplify).
 
