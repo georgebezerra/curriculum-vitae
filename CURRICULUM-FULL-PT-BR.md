@@ -62,7 +62,7 @@ O meu foco atual de trabalho é com as respectivas tecnologias:
 
 HTML5, CSS3, JavaScript, SQL, MongoDB, UML, UI-Design, Styled-components, Jest,
 React Testing Library, Unit-Test, Integration-Test, ExpressJS, KoaJS, Strapi-CMS, 
-Storybook, Linux, Docker, Docker-compose, Git, GitHub, GitFlow, Git-Lab, AmazonAWS (EC2, EBS, CodeCommit, Amplify).
+Storybook, Redux, Redux-Thunk, Redux-Saga, Linux, Docker, Docker-compose, Git, GitHub, GitFlow, Git-Lab, AmazonAWS (EC2, EBS, CodeCommit, Amplify).
 
 ![space](https://user-images.githubusercontent.com/3277185/99425971-50e77c80-28e2-11eb-8a59-890fcc2749e6.png)
 
