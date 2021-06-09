@@ -38,7 +38,8 @@ Projeto desenvolvido:
 ## Seven
 ##### Tech Lead; Rio de Janeiro, RJ (Remoto); Agosto-2020 - Novembro-2020
 > A Seven é uma agência digital que presta serviço de desenvolvimento.
-> * Participação do projeto de e-commerce:
+
+Participação do projeto de e-commerce:
 - Criação e implementação da arquitetura cloud (AWS).
 - Definição da stack backend; Node, TypeScript, Yup, MySQL.
 - Definição da stack frontend; React, Hooks, TypeScript, Styled-components, Context-API, Formik, Yup, Axios.
