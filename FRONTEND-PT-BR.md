@@ -27,7 +27,7 @@ SysAdmin (Unix e Linux), técnico de suporte, desenvolvimento de Web (Front & Ba
 ![space](https://user-images.githubusercontent.com/3277185/99425971-50e77c80-28e2-11eb-8a59-890fcc2749e6.png)
 
 ## MixReality
-##### Frontend Developer (React); São Paulo, SP (Remoto); Outubro-2021 - _atual_
+##### Frontend Developer (React); São Paulo, SP (Remoto); Outubro-2020 - _Junho-2021_
 > A [MixReality](http://www.mixreality.com.br/) é um startup voltada para o desenvolvimento de produtos e soluções tecnológicas para industria 4.0, realidade aumentada e realidade virtual.
 
 Projeto desenvolvido:
