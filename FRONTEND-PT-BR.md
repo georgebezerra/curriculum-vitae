@@ -61,7 +61,7 @@ Projeto desenvolvido:
 
 Projetos desenvolvidos:
 
-Participação no discovery da Multicoisas [https://www.multicoisas.com.br]:
+Participação no discovery do projeto da Multicoisas [https://www.multicoisas.com.br]:
 - Criação do design da arquitetura cloud (AWS, Azure, CGP).
 - Definição da stack backend; Node, TypeScript, Yup, SQL-Server.
 - Definição da stack frontend; React, Hooks, TypeScript, Material-UI, Redux, Formik, Yup, Axios.
